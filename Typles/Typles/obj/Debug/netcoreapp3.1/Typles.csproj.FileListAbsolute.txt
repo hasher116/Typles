@@ -1,0 +1,13 @@
+E:\Projects\C# console\Typles\Typles\Typles\bin\Debug\netcoreapp3.1\Typles.exe
+E:\Projects\C# console\Typles\Typles\Typles\bin\Debug\netcoreapp3.1\Typles.deps.json
+E:\Projects\C# console\Typles\Typles\Typles\bin\Debug\netcoreapp3.1\Typles.runtimeconfig.json
+E:\Projects\C# console\Typles\Typles\Typles\bin\Debug\netcoreapp3.1\Typles.runtimeconfig.dev.json
+E:\Projects\C# console\Typles\Typles\Typles\bin\Debug\netcoreapp3.1\Typles.dll
+E:\Projects\C# console\Typles\Typles\Typles\bin\Debug\netcoreapp3.1\Typles.pdb
+E:\Projects\C# console\Typles\Typles\Typles\obj\Debug\netcoreapp3.1\Typles.csprojAssemblyReference.cache
+E:\Projects\C# console\Typles\Typles\Typles\obj\Debug\netcoreapp3.1\Typles.AssemblyInfoInputs.cache
+E:\Projects\C# console\Typles\Typles\Typles\obj\Debug\netcoreapp3.1\Typles.AssemblyInfo.cs
+E:\Projects\C# console\Typles\Typles\Typles\obj\Debug\netcoreapp3.1\Typles.csproj.CoreCompileInputs.cache
+E:\Projects\C# console\Typles\Typles\Typles\obj\Debug\netcoreapp3.1\Typles.dll
+E:\Projects\C# console\Typles\Typles\Typles\obj\Debug\netcoreapp3.1\Typles.pdb
+E:\Projects\C# console\Typles\Typles\Typles\obj\Debug\netcoreapp3.1\Typles.genruntimeconfig.cache
